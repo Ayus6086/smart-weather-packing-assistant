@@ -44,7 +44,7 @@ Built with **HTML, CSS, and JavaScript**, powered by the **OpenWeatherMap API**.
 ---
 ## 🌍 Live Demo
 
-👉 View on GitHub Pages
+👉 [View on GitHub Pages](https://ayus6086.github.io/smart-weather-packing-assistant/)
 
 ## ✨ Future Improvements
 
