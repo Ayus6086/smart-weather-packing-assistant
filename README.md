@@ -9,8 +9,7 @@ Built with **HTML, CSS, and JavaScript**, powered by the **OpenWeatherMap API**.
 - 🌍 Search weather by **city name** or use your **current location**  
 - 📊 Shows **temperature, weather condition, and icon**  
 - 🎒 Smart **packing suggestions** based on weather + temperature  
-- 🎨 Dynamic **background image** that reflects the weather  
-- 🌙 **Dark/Light mode** toggle (saved in localStorage)  
+- 🎨 Dynamic **background image** that reflects the weather   
 - ⚠️ Error handling for invalid city names  
 
 ---
